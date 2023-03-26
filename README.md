@@ -1,4 +1,5 @@
-# Save-the-Bunny Project Description
+# Save-the-Bunny 
+-Project Description-
 "Save the Bunny" is a mobile game where the player controls a rabbit trying to avoid spikes and collect carrots 
 while staying alive as long as possible. The game has a scoring system based on the number of carrots collected, 
 and the player loses a life if they hit a spike. The goal of the game is to achieve the highest score possible 
